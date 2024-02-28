@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c55400f-f798-4463-b960-7d24dc1a6a91" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/com/minh/Multithread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/minh/Multithread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/minh/MultithreadingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/minh/MultithreadingDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/minh2/MultithreadTimeout.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/minh2/MultithreadTimeout.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/minh2/MultithreadingDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/minh2/MultithreadingDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/minh2/TimeOutTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/minh2/TimeOutTask.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nguyenz/chap1/Chapter1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nguyenz/chap1/Chapter1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nguyenz/chap3/JavaThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nguyenz/chap3/JavaThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nguyenz/chap3/MultiThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nguyenz/chap3/MultiThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nguyenz/chap3/MySqlThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nguyenz/chap3/MySqlThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nguyenz/chap3/SingleThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nguyenz/chap3/SingleThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nguyenz/chap3/SpringBootThead.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nguyenz/chap3/SpringBootThead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nguyenz/chap4/JavaThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nguyenz/chap4/JavaThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nguyenz/chap4/MultiThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nguyenz/chap4/MultiThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nguyenz/chap4/MySqlThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nguyenz/chap4/MySqlThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nguyenz/chap4/SingleThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nguyenz/chap4/SingleThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nguyenz/chap4/SpringBootThead.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nguyenz/chap4/SpringBootThead.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nguyenz/chap5/CalculatorRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nguyenz/chap5/CalculatorRunnable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nguyenz/chap5/ThreadPriority.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nguyenz/chap5/ThreadPriority.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nguyenz/chap6/ThreadStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nguyenz/chap6/ThreadStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nguyenz/chap7/CustomThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nguyenz/chap7/CustomThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/nguyenz/chap7/ThreadPauseResume.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/nguyenz/chap7/ThreadPauseResume.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Sample_0223/ExecuteJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Sample_0223/ExecuteJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Sample_0223/GenerateJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Sample_0223/GenerateJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Sample_0223/RunTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Sample_0223/RunTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Sample_0223/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Sample_0223/ThreadPool.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2cnPzeoh5G73qnFnISB1EU1m7zx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Synchronization">
+    <configuration name="Synchronization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nguyenz.chap8.Synchronization" />
+      <module name="MultiThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nguyenz.chap8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPauseResume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.nguyenz.chap7.ThreadPauseResume" />
+      <module name="MultiThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.nguyenz.chap7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Sample_0223.ThreadPool" />
+      <module name="MultiThread" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Sample_0223.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Synchronization" />
+        <item itemvalue="Application.ThreadPool" />
+        <item itemvalue="Application.ThreadPauseResume" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c55400f-f798-4463-b960-7d24dc1a6a91" name="Changes" comment="" />
+      <created>1708744634858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708744634858</updated>
+      <workItem from="1708744635879" duration="3070000" />
+      <workItem from="1709054203230" duration="5152000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
