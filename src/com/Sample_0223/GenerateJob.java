@@ -31,6 +31,7 @@ class GenerateJob extends Thread {
 			}
 		} catch (Exception e) {
 			// Throwing an exception
+			e.printStackTrace();
 			System.out.println("Thread generate job" + ": Exception is caught");
 		}
 	}

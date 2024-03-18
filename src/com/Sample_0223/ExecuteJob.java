@@ -18,8 +18,8 @@ class ExecuteJob extends Thread {
 				int waitSeconds = 2;
 
 				if (listJobs.size() > 0) {
-					JobInfo tempJob = listJobs.get(1);
-					listJobs.remove(1);
+					JobInfo tempJob = listJobs.get(0);
+					listJobs.remove(0);
 					System.out.println("Execute a new job; num job = " + listJobs.size());
 
 					RunTask object = new RunTask(tempJob.jobID);
@@ -36,6 +36,7 @@ class ExecuteJob extends Thread {
 			}
 		} catch (Exception e) {
 			// Throwing an exception
+			e.printStackTrace();
 			System.out.println("Thread execute job" + ": Exception is caught");
 		}
 	}

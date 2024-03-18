@@ -19,13 +19,13 @@ public class ThreadPool {
 		Thread thread2 = new Thread(execJob);
 		thread2.start();
 
-		Timer timer = new Timer();
-		TimeOutTask timeOutTask = new TimeOutTask(thread, timer);
-		timer.schedule(timeOutTask, 10000);
-
-		Timer timer2 = new Timer();
-		TimeOutTask timeOutTask2 = new TimeOutTask(thread2, timer2);
-		timer2.schedule(timeOutTask2, 10000);
+//		Timer timer = new Timer();
+//		TimeOutTask timeOutTask = new TimeOutTask(thread, timer);
+//		timer.schedule(timeOutTask, 10000);
+//
+//		Timer timer2 = new Timer();
+//		TimeOutTask timeOutTask2 = new TimeOutTask(thread2, timer2);
+//		timer2.schedule(timeOutTask2, 10000);
 
 	}
 }

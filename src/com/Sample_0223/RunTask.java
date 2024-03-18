@@ -57,6 +57,7 @@ class RunTask extends Thread {
 			System.out.println("Sub thread " + localThreadID + " stops.");
 		} catch (Exception e) {
 			// Throwing an exception
+			e.printStackTrace();
 			System.out.println("Sub thread " + localThreadID + ": Exception is caught");
 		}
 	}
