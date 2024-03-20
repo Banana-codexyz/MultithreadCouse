@@ -14,6 +14,7 @@ public class ShareData {
 	public synchronized int getElement() {
 		int id = idList.get(0);
 		idList.remove(0);
+		System.out.println("Number of tasks:" + idList.size());
 		return id;
 	}
 

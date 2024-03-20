@@ -1,7 +1,5 @@
 package com.sample_1803;
 
-import java.util.Random;
-
 public class Task extends Thread {
 	int id;
 	ShareData shareData;
@@ -18,10 +16,11 @@ public class Task extends Thread {
 				int taskId = shareData.getElement();
 				System.out.println("Thread " + id + " do task id:" + taskId);
 
-				Random rd = new Random();
-				int a = rd.nextInt(10) + 1;
-				shareData.addTaskid(a);
-
+//				for (int i = 0; i < 5; i++) {
+//					Random rd = new Random();
+//					int a = rd.nextInt(10) + 1;
+//					shareData.addTaskid(a);
+//				}
 				try {
 					sleep(1000);
 				} catch (InterruptedException e) {
